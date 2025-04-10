@@ -9,7 +9,9 @@
 4. zihe das heruntergeladene skript (join skript.sk) in das plugin
     -plugins > Skript > scripts > join skript.sk
 
-5. reloade dein Skript damit du direkt loslegen kannst!
+5. ändere "SERVERNAME" zu dem namen deines servers
+
+6. reloade dein Skript damit du direkt loslegen kannst!
     - /skript reload join skript.sk
 
    ⚠️ BITTE GEBE DAS SKRUPT NICHT ALS DEINS AUS ⚠️
@@ -31,7 +33,9 @@
 4. Move the Downloaded Skript (join_skript.sk) into the Plugin Folder
     -Navigate to: plugins > Skript > scripts > join_skript.sk
 
-5. Reload the Skript to Start Using It!
+5. Change "SERVERNAME" to your server name
+
+6. Reload the Skript to Start Using It!
     -Run the command: /skript reload join_skript.sk
 
 ⚠️ PLEASE DO NOT CLAIM THIS SKRIPT AS YOUR OWN ⚠️
