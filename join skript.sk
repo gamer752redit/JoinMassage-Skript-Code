@@ -1,0 +1,6 @@
+on join:
+    send "&b&l----------------------------------------"
+    send " "
+    send "&b&lWillkommen auf &3&l&o"SERVERNAME"&b&l!"
+    send " "
+    send "&b&l----------------------------------------"

@@ -1,0 +1,37 @@
+1. lade dir das skript runter
+    - das skript findest du auch hier im github
+
+2. lade dir das plugin "Skript" herunter
+    - https://www.spigotmc.org/resources/skript.114544/
+
+3. starte deinen server
+
+4. zihe das heruntergeladene skript (join skript.sk) in das plugin
+    -plugins > Skript > scripts > join skript.sk
+
+5. reloade dein Skript damit du direkt loslegen kannst!
+    - /skript reload join skript.sk
+
+   ⚠️ BITTE GEBE DAS SKRUPT NICHT ALS DEINS AUS ⚠️
+
+
+
+
+    How to Install the Minecraft Join Message Skript 
+
+
+1. Download the Skript
+    You can also find the skript on our GitHub.
+
+2. Download the "Skript" Plugin
+    -Get it here: https://www.spigotmc.org/resources/skript.114544/
+
+3. Start Your Server
+
+4. Move the Downloaded Skript (join_skript.sk) into the Plugin Folder
+    -Navigate to: plugins > Skript > scripts > join_skript.sk
+
+5. Reload the Skript to Start Using It!
+    -Run the command: /skript reload join_skript.sk
+
+⚠️ PLEASE DO NOT CLAIM THIS SKRIPT AS YOUR OWN ⚠️
